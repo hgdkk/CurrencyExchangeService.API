@@ -1,0 +1,9 @@
+{
+  "ConnectionStrings": {
+    "CurrencyExchangeDBContext": "Data Source=currencyexchangeappdbserver.database.windows.net;Initial Catalog=CurrencyExchangeDB;User ID=serveradmin;Password=Hg123456;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"
+  },
+  "BusinessConfig": {
+    "BaseURL": "https://api.apilayer.com/fixer/",
+    "ApiKey": "cDmSAZpe3PIUvVCInu98LsFR1s9lGacu"
+  }
+}
